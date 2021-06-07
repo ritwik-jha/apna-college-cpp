@@ -7,5 +7,6 @@ int main(){
 
     str.assign("hi");
     cout << str << endl;
+    cout << str.find("w")<< endl;
 
 }
